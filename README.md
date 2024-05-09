@@ -96,6 +96,7 @@
 - [Cloudability](https://www.cloudability.com/) - Cloud cost management and visibility. Tags: cost_visibility, multi_cloud
 - [CloudCheckr](https://www.cloudcheckr.com/) - Cloud management platform for cost, security, and compliance. Tags: cost_visibility, multi_cloud
 - [CloudHealth](https://cloudhealth.vmware.com/) - Cloud cost visibility and automated optimizations. Tags: cost_visibility, multi_cloud
+- [CloudPouch](https://cloudpouch.dev/) - A unique desktop application that works with any AWS account, uses AWS CLI proviles. Cloud cost visibility and optimizations. Tags: cost_visibility, automated_optimization, AWS, EBS
 - [CloudThread](https://www.cloudthread.io/) - Cloud cost tracking and waste identification. Tags: cost_visibility, multi_cloud
 - [CloudZero](https://www.cloudzero.com/) - Cloud cost intelligence platform. Tags: cost_visibility, multi_cloud
 - [Densify](https://www.densify.com/) - Automated rightsizing for Kubernetes and Compute Instances. Tags: cost_visibility, automated_optimization, Kubernetes, EKS, EC2

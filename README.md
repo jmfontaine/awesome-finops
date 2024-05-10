@@ -106,6 +106,7 @@
 - [KubeCost](https://kubecost.com) - Rightsizing recommendations for Kubernetes. Tags: cost_visibility, multi_cloud, Kubernetes, EKS, rightsizing
 - [MemVerge](https://memverge.com/) - Optimizes cost and performance for data-intensive workloads. Tags: automated_optimization, Spot, rightsizing
 - [nOps](https://nops.io) - Comprehensive AWS FinOps platform. Tags: automated_optimization, AWS, Spot, Kubernetes, EBS, RDS, RIs
+- [Pepperdata](https://www.pepperdata.com/) - Real-time, automated cost optimization for Amazon EMR and Amazon EKS. Tags: automated_optimization, EKS, EMR, Kubernetes, multi_cloud
 - [ProsperOps](https://www.prosperops.com/) - Automates RI and savings plans purchasing. Tags: automated_optimization, AWS, RIs
 - [Pump](https://pump.co/) - Cost optimization through group buying, AI and automated RI purchasing. Tags: automated_optimization, AWS, RIs, AI/ML
 - [ScaleOps](https://scaleops.com/) - Automated rightsizing for Kubernetes pods. Tags: automated_optimization, multi_cloud, Kubernetes, rightsizing

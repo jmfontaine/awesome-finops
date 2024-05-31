@@ -48,6 +48,7 @@
 - [Corey Quinn / Last Week In AWS](https://www.lastweekinaws.com/newsletter/)
 - [Cristian Magherusan-Stanciu / LeanerCloud](https://leanercloud.beehiiv.com)
 - [Jean Latiere / OptimNow](https://www.optimnow.io/en/blog)
+- [Bastien Martins Da Torre / Cloud FinOps](https://cloud-finops.io/FinOpsTools.html)
 
 ### Podcasts
 
@@ -97,10 +98,12 @@
 - [CloudCheckr](https://www.cloudcheckr.com/) - Cloud management platform for cost, security, and compliance. Tags: cost_visibility, multi_cloud
 - [CloudHealth](https://cloudhealth.vmware.com/) - Cloud cost visibility and automated optimizations. Tags: cost_visibility, multi_cloud
 - [CloudPouch](https://cloudpouch.dev/) - A unique desktop application that works with any AWS account, uses AWS CLI proviles. Cloud cost visibility and optimizations. Tags: cost_visibility, automated_optimization, AWS, EBS
-- [CloudThread](https://www.cloudthread.io/) - Cloud cost tracking and waste identification. Tags: cost_visibility, multi_cloud
+- [CloudThread](https://www.cloudthread.io/) - Cloud cost tracking and waste identification, part of FinOut since April 2nd 2024 ([announcement](https://www.finout.io/blog/cloudthread_finout)). Tags: cost_visibility, multi_cloud 
 - [CloudZero](https://www.cloudzero.com/) - Cloud cost intelligence platform. Tags: cost_visibility, multi_cloud
+- [DigiUsher](https://www.digiusher.com/) - Cloud cost visibility platform. Tags: cost_visibility, multi_cloud, Kubernetes, EKS, AWS, GCP, Azure
 - [Densify](https://www.densify.com/) - Automated rightsizing for Kubernetes and Compute Instances. Tags: cost_visibility, automated_optimization, Kubernetes, EKS, EC2
 - [EBS Optimizer](https://leanercloud.com/ebs-optimizer) - Commercial version of EBS Optimizer Community Edition. Tags: automated_optimization, AWS, EBS
+- [Finout](https://www.finout.io/) - FinOps all-in-one solution. Tags: Virtual Tagging, costs optimization, comprehensive cost governance suite, AWS, GCP, Azure, Kubernetes, AI/ML
 - [Hystax](https://hystax.com/) - FinOps and MLOps platform. Tags: cost_visibility, recommendations, ML, multi_cloud
 - [InfraCost](https://www.infracost.io/) - Commercial version of Infracost. Tags: cost_visibility, Terraform, multi_cloud
 - [KubeCost](https://kubecost.com) - Rightsizing recommendations for Kubernetes. Tags: cost_visibility, multi_cloud, Kubernetes, EKS, rightsizing
@@ -129,6 +132,7 @@
 
 - [Cristian Magherusan-Stanciu / LeanerCloud](https://leanercloud.com) - Cloud Optimization Consultant, building OSS and commercial tools like AutoSpotting, EBS Optimizer and Savings Estimator, ex-AWS Specialist Solutions Architect for Spot and Graviton, based in Germany. Tags: technical, tooling, open_source, cloud_strategy
 - [Eli Mansoor / OskaQ Consulting](https://www.oskaq-consulting.com/) - Consultant focused on helping companies and public sector organizations define cloud strategy and negotiate EDP contracts, FinOps book author, ex-AWS Specialist for Graviton, based in Israel. Tags: cloud_strategy, contracts, public_sector
+- [Bastien Martins Da Torre / Cloud FinOps](https://cloud-finops.io)- Pragmatic FinOps consultant, ex-ServiceNow, based in France. Tags: finops_tooling, cloud_strategy, finops 
 - [Erik Norman / Caligo](https://caligo.cloud/) - FinOps consultant, based in Italy. Tags: technical, cloud_strategy
 - [Jean Latiere / OptimNow](https://www.optimnow.io/) -  FinOps consultant focused on Green Computing, ex-AWS Specialist for Spot and Graviton, based in France. Tags: cloud_strategy, greenops
 - [Shahar Raz](https://razts.com) - Tech strategy consultant focused on AWS cost optimization, based in Israel. Tags: cloud_strategy

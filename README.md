@@ -57,6 +57,7 @@
 - [Cloudability](https://www.cloudability.com/)
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
+- [PerfectScale](https://perfectscale.io/) - Automated K8s Optimization and Governance. Tags: automated_optimization, Kubernetes, rightsizing, EKS, AKS, GCP, multi_cloud, cloud_agnostic
 - [Densify](https://www.densify.com/)
 
 ## Job Postings

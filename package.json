@@ -8,7 +8,7 @@
   "author": "Jean-Marc Fontaine & contributors",
   "license": "CC-BY-NC-SA-4.0",
   "devDependencies": {
-    "alex": "^8.2.0",
-    "awesome-lint": "^0.15.0"
+    "alex": "^11.0.1",
+    "awesome-lint": "^1.2.0"
   }
 }

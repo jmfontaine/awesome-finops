@@ -9,6 +9,6 @@
   "license": "CC-BY-NC-SA-4.0",
   "devDependencies": {
     "alex": "^8.2.0",
-    "awesome-lint": "^0.15.0"
+    "awesome-lint": "^1.2.0"
   }
 }

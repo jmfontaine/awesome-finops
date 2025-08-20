@@ -33,6 +33,7 @@
 ### Books
 
 - [Cloud FinOps](https://www.oreilly.com/library/view/cloud-finops/9781492054610/) - Seminal book by founders of the FinOps Foundation.
+- [Practical FinOps](https://www.manning.com/books/practical-finops) - Managing cloud cost, visibility, and accountability by Mohamed Labouardy.
 
 ### Online Courses
 

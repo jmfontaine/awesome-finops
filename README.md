@@ -50,6 +50,7 @@
 
 ### Open Source Tools
 
+- [aws-doctor](https://awsdoctor.compacompila.com/) - Powerful open-source CLI to audit security, costs, and best practices in AWS.
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
 
 ### Commercial Tools

@@ -51,6 +51,9 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [Cloud FinOps Skill](https://github.com/OptimNow/cloud-finops-skills) - Model-agnostic FinOps knowledge skill that gives AI agents accurate expertise on billing, pricing, and optimisation across AWS, Azure, GCP, and AI platforms.
+- [FinOps Tag Compliance MCP](https://github.com/OptimNow/finops-tag-compliance-mcp) - Multi-cloud tag governance MCP server with schema validation, cost attribution gap analysis, and automated bulk tagging.
+- [Tagging Policy Generator](https://tagpolgenerator.optimnow.io/) - Web app to generate and export tagging policies for AWS, Azure, and GCP.
 
 ### Commercial Tools
 

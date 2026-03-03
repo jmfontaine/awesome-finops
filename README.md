@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [Deploybase](https://deploybase.ai/) - Track real-time GPU and LLM pricing across all cloud and inference providers.
 
 ## Job Postings
 

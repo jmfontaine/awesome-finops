@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [Ghosthunter](https://github.com/avinash-matrixgard/ghosthunter) - Open-source AI cloud-cost investigator. Dual-model (Claude Opus + Sonnet) reasoning over GCP and AWS billing exports. Paranoid mode reads a CSV — never touches your cloud unless you opt in.
 
 ### Commercial Tools
 

@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [Ownkube](https://ownkube.io/) - Developer platform that runs in your own AWS account with auto-sleep schedules, managed spot placement, and right-sizing recommendations to cut compute spend.
 
 ## Job Postings
 

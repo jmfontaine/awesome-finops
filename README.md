@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [piqc](https://github.com/paralleliq/piqc) - Open-source GPU waste scanner for Kubernetes inference clusters. Detects tier misplacement, idle capacity, OOM risk, and CPU:GPU imbalance — quantified in dollars.
 
 ### Commercial Tools
 
@@ -58,6 +59,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [Paralleliq](https://www.paralleliq.ai) - Model-aware GPU control plane for AI infrastructure. Detects GPU waste, quantifies cost impact, and delivers actionable recommendations with approval workflows.
 
 ## Job Postings
 

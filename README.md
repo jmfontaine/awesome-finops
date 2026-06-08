@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [Fortem](https://fortem.dev) — ECS Fargate fleet control plane. Per-environment scheduling cuts dev/staging spend 60-70%. Fleet-wide cost visibility, developer self-service, AI diagnostics. Works with existing Terraform.
 
 ## Job Postings
 

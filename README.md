@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [llm-cost-audit](https://ilan-lachkar.github.io/llm-cost-audit/) - One-time paid audit of a team's LLM API usage and spend, delivered as a report.
 
 ## Job Postings
 

@@ -28,6 +28,7 @@
 
 ### Articles
 
+- [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) - Tools, research, and practices for measuring, monitoring, and optimizing token spend in LLM and AI agent workflows.
 - [Understanding Data Transfer in AWS](https://www.lastweekinaws.com/blog/understanding-data-transfer-in-aws/) - Make sense of the complex world of data transfer cost in AWS.
 
 ### Books

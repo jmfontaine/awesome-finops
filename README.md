@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [cloudsealed-jit](https://github.com/cloudsealed/JIT-Optimization-Engine) - Detects structural waste in cloud billing exports using a rolling-median and MAD baseline, resistant to the masking effect that breaks mean and standard deviation anomaly detectors. Python library, CLI, HTTP service and GitHub Action.
 
 ### Commercial Tools
 

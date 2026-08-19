@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [Zopnight](https://zop.dev/zopnight?utm_source=jmfontaine-awesome-finops&utm_medium=listing&utm_campaign=mcp-directory) - Multi-cloud cost and infrastructure governance for AWS, Azure and GCP.
 
 ## Job Postings
 

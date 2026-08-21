@@ -54,6 +54,7 @@
 
 ### Commercial Tools
 
+- [Cloud Cost Analyzer](https://cca.dragonfractal.com/) - Read-only CLI that finds AWS and Azure cost waste and prices each fix, runs in CI, and has a free tier.
 - [Cloudability](https://www.cloudability.com/)
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)

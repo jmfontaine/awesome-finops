@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [cost-diff](https://github.com/fabiocicerchia/cost-diff) - AWS cost diff: compares two billing periods and surfaces the biggest movers, formatted for PRs/Slack.
 
 ### Commercial Tools
 

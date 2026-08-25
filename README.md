@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [Spendline](https://www.spendline.ai/)
 
 ## Job Postings
 

@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [k8s-rightsizer-report](https://github.com/fabiocicerchia/k8s-rightsizer-report) - Right-sizing recommendations from Kubernetes metrics-server, as a readable report or patch YAML.
 
 ### Commercial Tools
 

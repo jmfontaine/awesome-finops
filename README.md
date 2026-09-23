@@ -57,6 +57,7 @@
 - [Cloudability](https://www.cloudability.com/)
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
+- [CloudQuell](https://www.cloudquell.com/) - Flat-fee cloud and AI cost management for AWS, Azure, GCP, Snowflake, OpenAI and Anthropic.
 - [Densify](https://www.densify.com/)
 
 ## Job Postings

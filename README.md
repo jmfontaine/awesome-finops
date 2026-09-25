@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [aws-waste-finder](https://github.com/errantsolutions/aws-waste-finder) - Free, single-file, read-only Python CLI that finds common silent AWS cost drains (unattached EBS volumes, unassociated EIPs, stopped-but-billed EC2 instances, old snapshots, idle NAT Gateways/load balancers) in one account/region. RDS is listed for manual review only, never auto-flagged. No dependencies beyond boto3.
 
 ### Commercial Tools
 

@@ -50,6 +50,7 @@
 
 ### Open Source Tools
 
+- [c3x](https://c3x.dev/) - Estimates what infrastructure-as-code changes will cost before they are deployed, with budget gates in CI.
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
 
 ### Commercial Tools

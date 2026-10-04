@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [costgrep](https://github.com/Paraphern/costgrep) - GitHub Actions cost breakdown by trigger: humans, AI agents and bots.
 
 ### Commercial Tools
 

@@ -57,6 +57,7 @@
 - [Cloudability](https://www.cloudability.com/)
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
+- [Costory](https://www.costory.io/) - Multi-cloud, Kubernetes, SaaS and AI cost allocation, with a hosted MCP server that lets AI agents investigate and report on spend.
 - [Densify](https://www.densify.com/)
 
 ## Job Postings

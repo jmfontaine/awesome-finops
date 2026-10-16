@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [EOLWatch](https://eolwatch.pages.dev) - Track AWS end-of-support dates before extended-support fees hit your bill.
 
 ## Job Postings
 

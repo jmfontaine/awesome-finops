@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [VPSLedger](https://vpsledger.pages.dev/) - True monthly VPS cost (list price plus IPv4, backups and egress) for 33 plans across 15 providers, with every price sourced and dated and open JSON data (CC BY 4.0).
 
 ## Job Postings
 

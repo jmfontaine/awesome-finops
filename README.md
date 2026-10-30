@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [DBU Waste Finder](https://github.com/markatdataandbeyond/dbu-waste-finder) - Read-only Databricks notebook and MCP that finds wasted DBUs from system tables and proposes fixes without applying them.
 
 ### Commercial Tools
 

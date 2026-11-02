@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [LLMBrake](https://github.com/llmbrake/llmbrake) - TypeScript library that attributes LLM API spend to individual customers and enforces a monthly dollar budget for each.
 
 ### Commercial Tools
 

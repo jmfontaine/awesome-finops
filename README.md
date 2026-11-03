@@ -57,6 +57,7 @@
 - [Cloudability](https://www.cloudability.com/)
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
+- [Control Cloud](https://controlcloud.dev/en) - Live inventory and topology of cloud accounts and on-prem hosts read through provider APIs with read-only credentials, with orphaned-resource, idle-disk and off-hours cost findings.
 - [Densify](https://www.densify.com/)
 
 ## Job Postings

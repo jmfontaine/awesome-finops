@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [FinOps Pro](https://cost.nife.io) - Cloud financial management platform with AI-powered cost intelligence, Kubernetes-native cost tracking (per namespace, pod or label) and unified multi-cloud visibility.
 
 ## Job Postings
 

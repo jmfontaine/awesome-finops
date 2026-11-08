@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [mnemo-jvm-warden](https://github.com/baokhang83/mnemo-jvm-warden) - Resizes JVM pod memory on a schedule using Kubernetes in-place resize, releasing heap before shrinking the pod.
 
 ### Commercial Tools
 

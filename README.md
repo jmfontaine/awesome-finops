@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [Kerf](https://getkerf.dev) - Open-source Kubernetes rightsizing that recommends CPU and memory requests from real usage and prices the savings per node type.
 
 ### Commercial Tools
 

@@ -50,6 +50,7 @@
 
 ### Open Source Tools
 
+- [Cloud Cost Cutter](https://github.com/blitzhash360-web/blitzhash-cloud-cost-cutter) - Reads Vercel, Supabase and AWS billing exports (FOCUS or CSV) and lists wasteful spend in plain English, with each saving's assumption and price source. Runs offline with no API keys (MIT).
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
 
 ### Commercial Tools

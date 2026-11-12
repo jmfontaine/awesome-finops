@@ -57,6 +57,7 @@
 - [Cloudability](https://www.cloudability.com/)
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
+- [Costory](https://www.costory.io/) - FinOps harness MCP: bills normalized in BigQuery, allocated to teams, with SSO. Build on it or switch. Starter from $300/month.
 - [Densify](https://www.densify.com/)
 
 ## Job Postings

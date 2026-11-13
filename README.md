@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [costwatch](https://github.com/jonmelia/costwatch) - Read-only CLI that finds unused AWS resources, prices each one with AWS list prices and shows who owns it.
 
 ### Commercial Tools
 

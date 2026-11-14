@@ -42,6 +42,8 @@
 ### Articles
 
 - [Understanding Data Transfer in AWS](https://www.lastweekinaws.com/blog/understanding-data-transfer-in-aws/) - Make sense of the complex world of data transfer cost in AWS.
+- [Azure CAF](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/financial-considerations/) - Understand financial considerations of the cloud
+- [Azure Well Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/principles) - Cost Optimization design principles
 
 ### Blogs and Newsletters
 
@@ -60,7 +62,7 @@
 
 ### Books
 
-- [Cloud FinOps - J.R. Storment, Mike Fuller](https://www.oreilly.com/library/view/cloud-finops/9781492054610/) - Seminal book by founders of the FinOps Foundation.
+- [Cloud FinOps, 2nd Edition - J.R. Storment, Mike Fuller](https://www.oreilly.com/library/view/cloud-finops-2nd/9781492098348/) - Seminal book by founders of the FinOps Foundation.
 - [Mastering AWS Cost Optimization - Eli Mansoor](https://www.amazon.de/-/en/Eli-Mansoor/dp/B087HDKMKH) - Book focused on cost optimization techniques for AWS.
 
 ### Online Courses

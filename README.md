@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [TraxAgent](https://www.traxagent.io/) - AI and LLM spend across the Anthropic, OpenAI and Gemini APIs, Claude Code, Codex and Cursor, by team, person and model, with ranked cost fixes.
 
 ## Job Postings
 

@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [Watchtower](https://watchtower.cerebrixos.com) - Cloud cost, security and drift scans across Azure, AWS and Google Cloud, with priced findings and fixes proposed as pull requests.
 
 ## Job Postings
 

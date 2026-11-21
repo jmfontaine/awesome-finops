@@ -58,6 +58,7 @@
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
+- [Off Hours Scheduler](https://offhours.puzaricloud.in) - Stops tagged dev EC2 and RDS after hours, stops RDS again after its 7 day auto start, wake link for developers. Paid, free trial.
 
 ## Job Postings
 

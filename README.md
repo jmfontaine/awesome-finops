@@ -36,6 +36,7 @@
 
 ### Online Courses
 
+- [edX - Introduction to FinOps](https://www.edx.org/course/introduction-to-finops) - Learn the basics of FinOps and get ready for the FinOps Certified Practitioner exam.
 
 ### Certifications
 

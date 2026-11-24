@@ -36,7 +36,7 @@
 
 ### Online Courses
 
-- [edX - Introduction to FinOps](https://www.edx.org/course/introduction-to-finops) - Learn the basics of FinOps and get ready for the FinOps Certified Practitioner exam.
+- [edX - Introduction to FinOps](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS175x+2T2020/course/) - Self-paced, 1-2 hour introduction.
 
 ### Certifications
 

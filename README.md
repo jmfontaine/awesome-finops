@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [DevOpsKit](https://devopskit.tools) - 100% client-side, zero-backend FinOps calculators: AWS NAT Gateway & S3 egress trap auditor, Karpenter vs Cluster Autoscaler bin-packing simulator, and LLM token pricing models.
 
 ### Commercial Tools
 

@@ -51,6 +51,7 @@
 ### Open Source Tools
 
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for policy definition and enforcement, with metrics, structured outputs and detailed reporting for clouds infrastructure.
+- [InfraGuard FinOps & Security](https://github.com/arthepitech/infraguard-finops-action) - GitHub Action that estimates Terraform monthly cost drifts and audits Docker/IaC security in Pull Requests.
 
 ### Commercial Tools
 
